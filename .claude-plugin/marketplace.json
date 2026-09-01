@@ -1,8 +1,8 @@
 {
   "name": "AITG-hub",
   "owner": {
-    "name": "Access IT Group"
+    "name": "AccessIT Group"
   },
-  "description": "Access IT Group's Claude Code plugin marketplace.",
+  "description": "AccessIT Group's Claude Code plugin marketplace.",
   "plugins": []
 }

@@ -1,6 +1,6 @@
 # AITG-hub
 
-Access IT Group's Claude Code plugin marketplace.
+AccessIT Group's Claude Code plugin marketplace.
 
 ## Add this marketplace
 
