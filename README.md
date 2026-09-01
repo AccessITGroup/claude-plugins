@@ -10,7 +10,9 @@ AccessIT Group's Claude Code plugin marketplace.
 
 ## Plugins
 
-_None yet — this marketplace is an empty scaffold. Plugins will be listed here as they're added to `marketplace.json`._
+| Plugin | Description | Repo |
+|---|---|---|
+| `webapp-testing-checklist` | WSTG-aligned web app pentest checklist and report-generation aid (does not perform testing itself) | [AccessITGroup/webapp-testing-checklist](https://github.com/AccessITGroup/webapp-testing-checklist) |
 
 ## Adding a plugin
 

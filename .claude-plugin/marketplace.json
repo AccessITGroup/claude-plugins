@@ -4,5 +4,16 @@
     "name": "AccessIT Group"
   },
   "description": "AccessIT Group's Claude Code plugin marketplace.",
-  "plugins": []
+  "plugins": [
+    {
+      "name": "webapp-testing-checklist",
+      "description": "Walk a web application penetration test through the OWASP WSTG methodology as a structured checklist and produce WSTG-numbered findings. Checklist/report-generation aid for a human-led engagement only — does not perform any testing itself.",
+      "version": "0.1.0",
+      "source": {
+        "source": "github",
+        "repo": "AccessITGroup/webapp-testing-checklist"
+      },
+      "category": "security"
+    }
+  ]
 }
