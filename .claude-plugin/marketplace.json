@@ -8,7 +8,7 @@
     {
       "name": "webapp-testing-checklist",
       "description": "Walk a web application penetration test through the OWASP WSTG methodology as a structured checklist and produce WSTG-numbered findings. Checklist/report-generation aid in backseat mode — normal benign traffic is fine, but it never sends attack payloads or exploit attempts; actual security testing is the tester's job.",
-      "version": "0.1.1",
+      "version": "0.2.0",
       "source": {
         "source": "github",
         "repo": "AccessITGroup/webapp-testing-checklist"
